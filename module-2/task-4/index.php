@@ -19,9 +19,7 @@ function fibonacciSeries($number){
 
         $fNumber = $sNumber;
         $sNumber = $nNumber;
-    }
-
-    
+    }    
 
 }
 
